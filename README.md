@@ -1,6 +1,5 @@
 <div align="center">
 
-## 💌 ** JaKooLit's Arch Hyprland Install Script ** 💌
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/JaKooLit/Arch-Hyprland?style=for-the-badge&color=cba6f7) ![GitHub last commit](https://img.shields.io/github/last-commit/JaKooLit/Arch-Hyprland?style=for-the-badge&color=b4befe) ![GitHub repo size](https://img.shields.io/github/repo-size/JaKooLit/Arch-Hyprland?style=for-the-badge&color=cba6f7)
 
@@ -24,17 +23,10 @@
 #### 📷 More Screenshots on v2 [`Link`](https://github.com/JaKooLit/screenshots/tree/main/Hyprland-Dots-Showcase) and [`Previous-Screenshots`](https://github.com/JaKooLit/screenshots/tree/main/Hyprland-ScreenShots/Arch-v2) and 
 
 
-#### ✨ A video walk through my dotfiles[`Link`](https://youtu.be/fO-RBHvVEcc?si=ijqxxnq_DLiyO8xb)
-#### ✨ A video walk on My Hyprland-Dots v2[`Link`](https://youtu.be/yaVurRoXc-s?si=iDnBC5S3thPBX3ZE)
-
-#### 📽️ youtube video showcase: [`Link`](https://youtu.be/W2UFwkgdwNo)
-
-
 ### 🪧🪧🪧 ANNOUNCEMENT 🪧🪧🪧
 - This Repo does not contain Hyprland Dots or configs! Dotfiles can be checked here [`Hyprland-Dots`](https://github.com/JaKooLit/Hyprland-Dots) . During installation, if you opt to copy installation, it will be downloaded from that centralized repo.
 - Hyprland-Dots use are constantly evolving / improving. you can check CHANGELOGS here [`Hyprland-Dots-Changelogs`](https://github.com/JaKooLit/Hyprland-Dots/wiki/Changelogs) 
 - Since the Hyprland-Dots are evolving, some of the screenshots maybe old
-- the wallpaper offered to be downloaded towards the end is from this [`REPO`](https://github.com/JaKooLit/Wallpaper-Bank)
 
 > [!IMPORTANT]
 > install a backup tool like `snapper` or `timeshift`. and Backup your system before installing hyprland using this script. This script does NOT include uninstallation of packages
@@ -126,27 +118,4 @@ log into your account
 #### 🫥 Improving performance for Older Nvidia Cards using driver 470
   - [`SEE HERE`](https://github.com/JaKooLit/Hyprland-Dots/discussions/123#discussion-6035205)
   
-#### 📒 Final Notes
-- join my discord channel [`Discord`](https://discord.gg/V2SJ92vbEN)
-- Feel free to copy, re-distribute, and use this script however you want. Would appreciate if you give me some loves by crediting my work :)
-
-#### 👍👍👍 Thanks and Credits!
-- [`Hyprland`](https://hyprland.org/) Of course to Hyprland and @vaxerski for this awesome Dynamic Tiling Manager.
-
-## 💖 Support
-- a Star on my Github repos would be nice 🌟
-
-- Subscribe to my Youtube Channel [YouTube](https://www.youtube.com/@Ja.KooLit) 
-
-- You can also buy me Coffee Through ko-fi.com or Coffee.com 🤩
-
-<a href='https://ko-fi.com/jakoolit' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/JaKooLit)
-
-####  📹 Youtube videos (Click to view and watch the playlist) 📹
-[![Youtube Playlist Thumbnail](https://raw.githubusercontent.com/JaKooLit/screenshots/main/Youtube.png)](https://youtube.com/playlist?list=PLDtGd5Fw5_GjXCznR0BzCJJDIQSZJRbxx&si=iaNjLulFdsZ6AV-t)
-
-
-## 🥰🥰 💖💖 👍👍👍
 [![Stargazers over time](https://starchart.cc/JaKooLit/Arch-Hyprland.svg?variant=adaptive)](https://starchart.cc/JaKooLit/Arch-Hyprland)
