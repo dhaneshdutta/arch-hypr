@@ -1,5 +1,5 @@
 #!/bin/bash
-# https://github.com/JaKooLit
+# https://github.com/dhaneshdutta
 
 # Check if running as root. If root, script will exit
 if [[ $EUID -eq 0 ]]; then
@@ -10,12 +10,11 @@ fi
 clear
 
 printf "\n%.0s" {1..3}                            
-echo "   |  _.   |/  _   _  |  o _|_ "
-echo " \_| (_| o |\ (_) (_) |_ |  |_ "
+
 printf "\n%.0s" {1..2}  
 
 # Welcome message
-echo "$(tput setaf 6)Welcome to JaKooLit's Arch-Hyprland Install Script!$(tput sgr0)"
+echo "$(tput setaf 6)Welcome to dhanesh's Arch-Hyprland Install Script!$(tput sgr0)"
 echo
 echo "$(tput setaf 166)ATTENTION: Run a full system update and Reboot first!! (Highly Recommended) $(tput sgr0)"
 echo
