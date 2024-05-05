@@ -1,5 +1,5 @@
 #!/bin/bash
-# 💫 https://github.com/JaKooLit 💫 #
+# 💫 https://github.com/dhaneshdutta 💫 #
 # XDG-Desktop-Portals #
 if [[ $USE_PRESET = [Yy] ]]; then
   source ./preset.sh
