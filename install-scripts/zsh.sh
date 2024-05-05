@@ -1,5 +1,5 @@
 #!/bin/bash
-# 💫 https://github.com/JaKooLit 💫 #
+# 💫 https://github.com/dhaneshdutta 💫 #
 # zsh and oh my zsh including pokemon-color-scripts#
 if [[ $USE_PRESET = [Yy] ]]; then
   source ./preset.sh
