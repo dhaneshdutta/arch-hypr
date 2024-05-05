@@ -33,8 +33,8 @@
 #### ✨ to run
 > clone this repo (latest commit only) to reduce file size download by using git. Change directory, make executable and run the script
 ```bash
-git clone --depth=1 https://github.com/JaKooLit/Arch-Hyprland.git ~/Arch-Hyprland
-cd ~/Arch-Hyprland
+git clone --depth=1 https://github.com/dhaneshdutta/arch-hypr.git ~/arch-hypr
+cd ~/arch-hypr
 chmod +x install.sh
 ./install.sh
 ```
@@ -49,6 +49,3 @@ source ~/.zshrc
 - reboot or logout
 - by default agnoster theme is installed. You can find more themes from this [`OH-MY-ZSH-THEMES`](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes)
 - to change the theme, edit ~/.zshrc . Look for ZSH_THEME="desired theme"
-
-#### ✨ TO DO once installation done and dotfiles copied
-- ~~if you opted to install gtk themes, to apply the theme and icon, press the dark/light button (beside the padlock). To apply Bibata modern ice cursor, launch nwg-look (GTK Settings) through rofi.~~ Hyprland-Dots v2.1.18, initial boot file will attempt to apply GTK themes,cursor, and icons. You can tweak more using nwg-look (GTK-Settings) utility
