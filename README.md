@@ -1,15 +1,6 @@
 ### 🪧🪧🪧 ANNOUNCEMENT 🪧🪧🪧
 - This Repo does not contain Hyprland Dots or configs! Dotfiles can be checked here [`Hyprland-Dots`](https://github.com/dhaneshdutta/hypr-dots) . During installation, if you opt to copy installation, it will be downloaded from that centralized repo.
 
-> [!IMPORTANT]
-> install a backup tool like `snapper` or `timeshift`. and Backup your system before installing hyprland using this script. This script does NOT include uninstallation of packages
-
-> [!NOTE]
-> Main reason why I have not included an uninstallation script is simple. Some packages maybe already installed on your system by default. If I create an uninstall script with packages that I have set to install, you may end up a unrecoverable system. 
-
-> [!WARNING] 
-> Download this script on a directory where you have write permissions. ie. HOME. Or any directory within your home directory. Else script will fail
-
 #### 🆕  Prerequisites
 - This install script is intended for atleast Server type / Minimal Arch Linux installed.
 
