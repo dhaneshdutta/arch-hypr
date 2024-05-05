@@ -1,5 +1,5 @@
 #!/bin/bash
-# 💫 https://github.com/JaKooLit 💫 #
+# 💫 https://github.com/dhaneshdutta 💫 #
 # Adding users into input group #
 
 if [[ $USE_PRESET = [Yy] ]]; then
