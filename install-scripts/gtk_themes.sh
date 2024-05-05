@@ -1,5 +1,5 @@
 #!/bin/bash
-# 💫 https://github.com/JaKooLit 💫 #
+# 💫 https://github.com/dhaneshdutta 💫 #
 # GTK Themes & ICONS and  Sourcing from a different Repo #
 
 engine=(
