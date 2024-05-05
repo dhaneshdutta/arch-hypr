@@ -1,5 +1,5 @@
 #!/bin/bash
-# 💫 https://github.com/JaKooLit 💫 #
+# 💫 https://github.com/dhaneshdutta 💫 #
 # Hyprland Packages #
 
 # edit your packages desired here. 
@@ -57,15 +57,11 @@ brightnessctl
 btop
 cava-git
 eog
-gnome-system-monitor
-mousepad 
 mpv
 mpv-mpris 
-nvtop
 nwg-look-bin
 pacman-contrib
 vim
-yt-dlp
 )
 
 # List of packages to uninstall as it conflicts with swaync or causing swaync to not function properly
