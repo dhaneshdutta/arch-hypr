@@ -1,4 +1,4 @@
-# 💫 https://github.com/JaKooLit 💫 #
+# 💫 https://github.com/dhaneshdutta 💫 #
 #
 # CREDIT to: https://github.com/PostCyberPunk for this Preset function
 
