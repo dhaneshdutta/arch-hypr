@@ -1,5 +1,5 @@
 #!/bin/bash
-# 💫 https://github.com/JaKooLit 💫 #
+# 💫 https://github.com/dhaneshdutta 💫 #
 # Main Hyprland Package #
 
 hypr=(
