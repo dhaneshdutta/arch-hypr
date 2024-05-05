@@ -1,5 +1,5 @@
 #!/bin/bash
-# 💫 https://github.com/JaKooLit 💫 #
+# 💫 https://github.com/dhaneshdutta 💫 #
 # Paru AUR Helper #
 # NOTE: If yay is already installed, paru will not be installed #
 
