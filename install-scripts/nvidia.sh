@@ -1,5 +1,5 @@
 #!/bin/bash
-# 💫 https://github.com/JaKooLit 💫 #
+# 💫 https://github.com/dhaneshdutta 💫 #
 # Nvidia Stuffs #
 if [[ $USE_PRESET = [Yy] ]]; then
   source ./preset.sh
