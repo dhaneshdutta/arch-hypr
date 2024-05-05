@@ -8,7 +8,8 @@
 
 # add packages wanted here
 Extra=(
-
+firefox
+ark
 )
 
 hypr_package=( 
